@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import random
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-API_TOKEN = '7029328091:AAGbExhcAC6gE9jK7fQxSM-QLw7FKpUUd-g'
+API_TOKEN = '7076763491:AAFDiubbLBjUc9G0LD_JOd8Qv3EU58JvbPY'
 bot = telebot.TeleBot(API_TOKEN)
 
 def check_crunchyroll_account(email, password):
